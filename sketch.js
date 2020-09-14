@@ -29,7 +29,7 @@ function setup() {
 }
 
 function draw() {
-  background(black);
+  background("black");
 
   car1.velocityX = speed;
 
